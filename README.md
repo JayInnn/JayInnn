@@ -27,7 +27,7 @@ Hi, I'm **Jay Yin**. Nice to meet you.
 
 ## Contributions
 ![pic01](https://github-readme-stats.vercel.app/api/top-langs?username=JayInnn&show_icons=true&locale=en&layout=compact)
-![pic02](https://github-readme-stats.vercel.app/api?username=JayInnn&show_icons=true&locale=en)
+<!-- ![pic02](https://github-readme-stats.vercel.app/api?username=JayInnn&show_icons=true&locale=en) -->
 
 
 <em><b>"No jade crude,Shows craft good.Unless you learn,Brute you'll turn."</b></em>
