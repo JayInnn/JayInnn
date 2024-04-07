@@ -31,4 +31,4 @@ Hi, I'm **Jay Yin**. Nice to meet you.
 -->
 <!-- ![pic02](https://github-readme-stats.vercel.app/api?username=JayInnn&show_icons=true&locale=en) -->
 
-<em><b>"No jade crude,Shows craft good.Unless you learn,Brute you'll turn."</b></em>
+<em><b>"Less Is More"</b></em>
