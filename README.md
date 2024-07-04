@@ -20,9 +20,9 @@ Hi, I'm **Jay Yin**. Nice to meet you.
 ## About me
 
 -  👨‍🎓 I've graduated from USTC majoring in computer science.
--  💼 I'm currently working at ~~Tencent~~ AI:).
+-  💼 I'm currently working at ~~Tencent~~ AI company about HPC:).
 -  👨‍💻 I'm currently learning ~~Java & Golang~~ C/C++.
--  🌍 I like hiking, ~~traveling~~ and football.
+-  🌍 I like hiking, traveling and football.
 -  📫 How to reach me: jayyin00@gmail.com
 
 <!--
